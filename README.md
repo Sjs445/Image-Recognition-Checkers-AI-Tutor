@@ -1,4 +1,4 @@
-# Image Recognition Checkers AI Tutor (Back-End)
+# Image Recognition Checkers AI Tutor
 
 A full stack mobile app that allows users to take a picture of a checkerboard state, send the photo to our backend server, and get a response as the next best move to make.
 
